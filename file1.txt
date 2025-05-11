@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is file 1.
 =======
 <<<<<<< HEAD
@@ -7,3 +8,6 @@ this is file1 of dev branch
 this is file1 of bug-fix branch
 >>>>>>> bug-fix
 >>>>>>> dev
+=======
+this is file1 of bug-fix branch 
+>>>>>>> bug-fix
