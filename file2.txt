@@ -1,6 +1,12 @@
+<<<<<<< HEAD
   this is file2.
 
 add another marketing message section
 
 add footer notes
 2026 is coming
+=======
+  this is file2 of bug-fix branch
+
+  2026 is coming and footer note added 
+>>>>>>> bug-fix
