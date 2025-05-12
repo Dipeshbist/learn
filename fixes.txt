@@ -5,3 +5,4 @@ Third bug fixed properly.
 fourth bug fixed.
 bug is fixed for pinkmode
  pink mode activated
+ another fix message for purple mode
